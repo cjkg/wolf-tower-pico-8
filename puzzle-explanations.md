@@ -1,3 +1,5 @@
+# Puzzle Explanations
+
 Click the floor puzzle you wish to hear more about.
 
 *   <details><summary>Floor 3 Puzzle</summary> We know from the skeleton that only one of the statements is true. The statements "The key is in chest 1" and "The key is not in chest 1" are contradictory. So one is true and one is false. And since we know that one of those contradicting statements is true (it doesn't matter which), "The key is not in chest 2" is false (there is only one true statement among the three!). Therefore the key is in chest 2.</details>
