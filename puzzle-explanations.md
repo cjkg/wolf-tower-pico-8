@@ -1,11 +1,3 @@
-*   **Floor 3 Puzzle**
-    *   We know from the skeleton that only one of the statements is true. The statements "The key is in chest 1" and "The key is not in chest 1" are contradictory. So one is true and one is false. And since we know that one of those contradicting statements is true (it doesn't matter which), "The key is not in chest 2" is false (there is only one true statement among the three!). Therefore the key is in chest 2.
-*   **Floor 4 Puzzle**
-*   **Floor 5 Puzzle**
-*   **Floor 6 Puzzle**
-*   **Floor 7 Puzzle**
-*   **Floor 8 Puzzle**
-
 *   <details><summary>Floor 3 Puzzle</summary> We know from the skeleton that only one of the statements is true. The statements "The key is in chest 1" and "The key is not in chest 1" are contradictory. So one is true and one is false. And since we know that one of those contradicting statements is true (it doesn't matter which), "The key is not in chest 2" is false (there is only one true statement among the three!). Therefore the key is in chest 2.</details>
 *   <details><summary>Floor 4 Puzzle</summary> We know from the skeleton that each of the demons is a knight or a knave (and we don't know which). The lower demon says "I am a knight. The key is in chest 1." This might be true, but it's also something a knave can say. So, on its own, this demon doesn't really tell us much. The other demon says "We are both knaves. The key is in chest 2." First, let's suppose that this demon is a knight. Then his statement "We are both knaves" must be true, as knights never lie. But then he's a knave! That's a contradiction, so we know he must be a knave, and that the statement "We are both knaves" is false. Therefore this demon is a knave and the lower demon is a knight. Therefore, the key is in chest 1.</details>
 *   <details><summary>Floor 5 Puzzle</summary> Again the skeleton tells us that each of the demons is a knight or a knave (and we don't know which). The top demon says "I'm a knave and the skull isn't. The key is in the second chest." Suppose that this top demon is a knight. Then he is a knave, which is impossible! So he must be a knave and the statement "The skull isn't a knave" must be false too. So they are both knaves. Since the two demons advise us to open chests 2 and 3, we know that the key must be in chest 1.</details>
